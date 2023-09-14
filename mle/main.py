@@ -11,7 +11,7 @@ from langchain.embeddings import OpenAIEmbeddings
 from langchain.llms import OpenAI
 from langchain.vectorstores import Chroma
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "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"
 
 llm = OpenAI(temperature=0.1, verbose=True)
 embeddings = OpenAIEmbeddings()
