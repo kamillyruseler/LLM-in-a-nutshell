@@ -10,6 +10,7 @@ Alimentamos essa aplicação com as 170 páginas do "Guia Definitivo para Invest
 
 ## Deploy na Streamlit
 Acesse o link: https://llm-in-a-nutshell.streamlit.app/
+Você pode escolher entre fazer uma pergunta ou clicar nos botões de perguntas já prontas. A aplicação mostrará uma resposta (quando ela não entender, ela apenas dirá "I don't know") e também o que ela encontrou no ebook sobre isso.
 ![image](https://github.com/kamillyruseler/LLM-in-a-nutshell/assets/107367118/2887a49f-1717-4bc2-96f5-aee1529c8e00)
 
 ## Rodando localmente
